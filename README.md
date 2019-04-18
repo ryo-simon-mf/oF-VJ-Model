@@ -5,13 +5,12 @@
 
 ![image.png](https://raw.githubusercontent.com/ryo-simon-mf/oF-VJ-Model/master/image.png)
 
-    ・ofxAssimpModelLoader
-
+　・ofxAssimpModelLoader  
 　・ofxPostGlitch  
-　https://github.com/maxillacult/ofxPostGlitch
+　https://github.com/maxillacult/ofxPostGlitch  
 　
-　・ofxRollingCam
-　https://github.com/saebashi/ofxRollingCam
+　・ofxRollingCam  
+　https://github.com/saebashi/ofxRollingCam  
 
 
 ## Licence
