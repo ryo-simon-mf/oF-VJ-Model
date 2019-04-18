@@ -8,7 +8,6 @@
 　・ofxAssimpModelLoader  
 　・ofxPostGlitch  
 　https://github.com/maxillacult/ofxPostGlitch  
-　
 　・ofxRollingCam  
 　https://github.com/saebashi/ofxRollingCam  
 
