@@ -1,6 +1,6 @@
 # oF-VJ-Model
 -macOS Mojave(version 10.14.4)  
--Xcode(Version 10.2)  
+-Xcode(Version 10.3)  
 -openFrameworks 0.10.1  
 
 ![image.png](https://raw.githubusercontent.com/ryo-simon-mf/oF-VJ-Model/master/image.png)
